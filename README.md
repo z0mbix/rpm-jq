@@ -9,7 +9,7 @@ parts of our automation.
 jq is a single binary and can be easily downloaded from Github, but installing
 software with Chef/Puppet etc. is easier when it's a package, hence this repo.
 
-## Where to find is
+## Where to find it
 
     /usr/bin/jq
 
